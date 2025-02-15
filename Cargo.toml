@@ -1,5 +1,5 @@
 [package]
-name = "RustShare"
+name = "rust_share"  # Modifica il nome del crate in snake case
 version = "0.1.0"
 edition = "2021"
 
